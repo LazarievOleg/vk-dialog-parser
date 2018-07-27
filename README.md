@@ -1,4 +1,4 @@
-Код написан на Python 3+. 
+1. Код написан на Python 3+. 
 Соответственно нужно его установить:
 https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
@@ -8,7 +8,7 @@ Optional Features: поставить галочку install PIP
 
 Advanced Opt.: оставить как есть
 
-Скачиваем сам парсер:
+2. Скачиваем сам парсер:
 https://github.com/Fl0ydR0se/vk-dialog-parser/archive/master.zip
 затем разархивируем его в удобное место.
 
@@ -22,7 +22,7 @@ pip install aiohttp
 
 pip install vk_api
 
-Запускаем сам парсер (пишем или копируем в консоль и нажимаем энтер):
+3. Запускаем сам парсер (пишем или копируем в консоль и нажимаем энтер):
 
 python vk.py --id <friend|chat>
 
