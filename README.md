@@ -15,8 +15,11 @@ https://github.com/Fl0ydR0se/vk-dialog-parser/archive/master.zip
 Запускаем командную строку из папки с парсером.
 
 Установим нужные библиотеки, в командной строке пишем и нажимаем enter:
+
 pip install aiohttp
+
 потом
+
 pip install vk_api
 
 Запускаем сам парсер (пишем или копируем в консоль и нажимаем энтер):
