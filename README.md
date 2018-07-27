@@ -3,7 +3,9 @@
 https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
 При установке выбрать Custom installation, 
+
 Optional Features: поставить галочку install PIP
+
 Advanced Opt.: оставить как есть
 
 Скачиваем сам парсер:
