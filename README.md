@@ -1,17 +1,4 @@
-# vk_dialog_photo_backup
 
-## Description
-
-This is a simple Python script for downloading photos from friend or group chat.
-
-## Requirements
-
-* Python 3 only;
-* Installed dependencies: aiohttp, vk_api.
-
-  `pip install aiohttp, vk_api`
-
-## Usage
 
 python3 vk_dialog_photo_backup.py --id **<friend|chat>**
 
